@@ -4,9 +4,9 @@ This is template for setting up docker with laravel.
 
 ## Installation
 
-1. Clone this git
+1.Clone this git
 
-2. To Build And Start the Container Run
+2.To Build And Start the Container Run
 
 
 ```bash
@@ -19,6 +19,7 @@ docker-composer up -d --build
 ```bash
 docker-composer up -d 
 ```
+### The Server is running defaut at localhost 
 ### Now to run any commands you may run it in two ways
 
 ```bash
@@ -28,4 +29,9 @@ docker-composer exec php --followed-by-the-command
 ```bash
 docker-composer exec php bash
 ```
-## Then you may run the commands normally
+##### Then you may run the commands normally
+
+## To Stop The Container
+```bash
+docker-composer down
+```

@@ -4,9 +4,9 @@ This is template for setting up docker with laravel.
 
 ## Installation
 
-1.Clone this git
+1. Clone this git
 
-2.To Build And Start the Container Run
+2. To Build And Start the Container Run
 
 
 ```bash

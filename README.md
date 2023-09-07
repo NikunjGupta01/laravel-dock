@@ -2,6 +2,8 @@
 
 This is template for setting up docker with laravel.
 
+### *Note: Set the DB_HOST in .env to db ie. DB_HOST = db  
+
 ## Installation
 
 1.Clone this git
